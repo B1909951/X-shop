@@ -1,0 +1,9 @@
+//Guide Ha Chanh Nam
+//PHP version 7.4.28
+//Composer version 2.3.1
+====================
+Hướng dẫn chạy project x-shop
+1. Copy thư mục x-shop vào trong htdocs
+2. Tạo DB laravel_shop và import laravel_shop.sql cho DB này
+3. Chạy project bằng cách truy cập http://localhost/x_shop/
+
